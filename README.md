@@ -51,7 +51,7 @@ Basic usage
 -----------
 
 python-react provides an interface to a render server which is capable of rendering React components with data
-from your python process.
+from python process.
 
 Render requests should provide a path to a JS file that exports a React component. If you want to pass
 data to the component, you can optionally provide a second argument that will be used as the component's
